@@ -53,13 +53,22 @@ Welcome to the afternoon session! Let's deepen our understanding of how AI works
 
 ### Watch and Learn
 
-**Video Title:** Cloud AI: How Artificial Intelligence Works in the Cloud
+**Video Title:** The Role of AI in SAP: What Freshers Should Know
 
-**Video Link:** https://www.youtube.com/watch?v=0b5TSQ5qj8s
+**Video Link:** https://www.youtube.com/watch?v=a4h8lJWYTrM&t=4s
 
-**Duration:** ~8 minutes
+**Duration:** ~10 minutes
 
-**Note:** This connects to our lesson on "How AI Combines with other techs" - specifically Cloud Computing. It explains how cloud infrastructure enables AI capabilities.
+**Note:** This connects to our lesson on "How AI Combines with other techs" - specifically Cloud Computing and SAP AI. This video explains how AI is used in SAP systems. While watching, think about:
+- How AI integrates with SAP cloud platforms
+- How SAP uses AI to enhance business processes
+- How cloud computing enables SAP AI capabilities
+- How AI and cloud work together in SAP solutions
+
+**Focus Questions:**
+- How does SAP use AI in its cloud platforms?
+- Why is cloud computing important for SAP AI?
+- How do AI and cloud work together in SAP solutions?
 
 ---
 
