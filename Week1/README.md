@@ -45,42 +45,51 @@ This week covers **Understanding Technology** with a focus on:
 **Exercises:**
 - [📄 01_excersize.md - Cloud Computing Fundamentals](Day2/01_excersize.md)
 - [📄 02_excersize.md - SAP Cloud & Integration](Day2/02_excersize.md)
+- [📄 03_excersize.md - Group Exercise: Evolution of Data Storage & IoT Smart City](Day2/03_excersize.md)
 
 ---
 
-### Day 3 (Wednesday, 19 Feb) - Technology Evolution
+### Day 3 (Wednesday, 19 Feb) - Transition to AI
 **Topics Covered:**
-- Technology Then and Now: Examples (Hardware, Software, Communication, Data Storage, User Interface, AI, IoT)
-- SAP: 10 Years Ago vs. Now
-- Group Exercise: Evolution of Data Storage & IoT Smart City Case Study
-
-**Exercises:**
-- [📄 01_excersize.md - Group Exercise: Evolution of Data Storage & IoT Smart City](Day3/01_excersize.md)
-
----
-
-### Day 4 (Thursday, 20 Feb) - Artificial Intelligence
-**Topics Covered:**
-- AI Definition and Introduction
+- SAP BTP and Cloud Computing (Video Learning)
+- System Software vs. Application Software (Video Learning)
+- Artificial Intelligence Introduction
 - AI Key Components (Machine Learning, NLP, Computer Vision, Robotics, Expert Systems)
 - AI Functionalities (Predictive Analytics, Speech Recognition, Image Recognition, Recommendation Systems, Autonomous Systems)
 - How AI Works (5 Steps)
 - How AI Combines with Other Technologies (IoT, Cloud, Big Data, Blockchain)
-- SAP and AI
-- SAP AI Functionalities (SAP Leonardo, SAP Conversational AI, SAP Predictive Analytics)
-- SAP Cloud AI Functionalities
 
 **Exercises:**
-- [📄 01_excersize.md - Artificial Intelligence Introduction](Day4/01_excersize.md)
-- [📄 02_excersize.md - AI Integration & SAP AI](Day4/02_excersize.md)
+- [📄 01_excersize.md - Video Learning: SAP BTP & Cloud Computing](Day3/01_excersize.md)
+- [📄 02_excersize.md - Video Learning: System Software vs. Application Software](Day3/02_excersize.md)
+- [📄 03_excersize.md - Introduction to Artificial Intelligence](Day3/03_excersize.md)
+- [📄 04_excersize.md - Afternoon Session: How AI Works & AI-Cloud Integration](Day3/04_excersize.md)
 
 ---
 
-### Day 5 (Friday, 21 Feb) - Robotics & Automation
+### Day 4 (Thursday, 20 Feb) - AI History, SAP AI & Introduction to RPA
 **Topics Covered:**
-- What is Robotics?
+- AI History and Evolution
+- AI Advanced Concepts (Deep Learning, Neural Networks, Reinforcement Learning, GANs)
+- How AI Combines with Other Technologies (IoT, Cloud, Big Data, Blockchain)
+- SAP and AI
+- SAP AI Functionalities (SAP Leonardo, SAP Conversational AI, SAP Predictive Analytics)
+- SAP Cloud AI Functionalities
+- Robotic Process Automation (RPA)
+- Digital Innovation and Business Transformation
+
+**Exercises:**
+- [📄 01_excersize.md - AI History & Advanced Concepts](Day4/01_excersize.md)
+- [📄 02_excersize.md - AI Integration & SAP AI](Day4/02_excersize.md)
+- [📄 03_excersize.md - Video Learning: Robotic Process Automation (RPA)](Day4/03_excersize.md)
+- [📄 04_excersize.md - Afternoon Session: SAP AI & Digital Innovation](Day4/04_excersize.md)
+
+---
+
+### Day 5 (Friday, 21 Feb) - Automation & Week 1 Conclusion
+**Topics Covered:**
 - Difference between Automation and AI
-- Key Aspects and Components
+- Key Aspects and Components of Automation
 - What is Automation?
 - Key Components
 - How is Automation Done?
@@ -89,11 +98,13 @@ This week covers **Understanding Technology** with a focus on:
 - Automated Invoice Process in SAP
 - Automated Billing in SAP
 - Automated Allocation of Payments in SAP
-- Conclusions
+- SAP Integration with External Systems
+- Week 1 Conclusions and Recap
 
 **Exercises:**
 - [📄 01_excersize.md - Robotics & Automation](Day5/01_excersize.md)
 - [📄 02_excersize.md - SAP Automation & Week 1 Wrap-Up](Day5/02_excersize.md)
+- [📄 03_excersize.md - Afternoon Session: SAP Integration & Automation](Day5/03_excersize.md)
 
 ---
 
@@ -147,12 +158,10 @@ By the end of this week, you should be able to:
 
 ## 📚 Resources
 
-- **Slides:** Located in `/drafts/` folder
-  - `Understanding Technology 1.pptx` (source file)
-  - `Understanding Technology 2.pptx` (source file)
-- **Course Notes:** Located in `/drafts/` folder
-  - [coursera notes 1.docx.md](../drafts/coursera%20notes%201.docx.md)
-  - [coursera notes 2.docx.md](../drafts/coursera%20notes%202.docx.md)
+- **Slides:** Source files available from your instructor
+  - Understanding Technology 1.pptx - Week 1, Days 1-3
+  - Understanding Technology 2.pptx - Week 1, Days 4-5
+- **Course Notes:** Available from your instructor
 
 ---
 

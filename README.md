@@ -99,10 +99,10 @@ SAP/
 - [📖 Week 1 Exercise Guide](Week1/README.md) - Detailed Week 1 exercises
 - [📁 Week 1 Exercises](Week1/) - All Week 1 exercise files
   - [Day 1](Week1/Day1/) - [Exercise 1](Week1/Day1/01_excersize.md) | [Exercise 2](Week1/Day1/02_excersize.md) | [Exercise 3](Week1/Day1/03_excersize.md) | [Exercise 4](Week1/Day1/04_excersize.md)
-  - [Day 2](Week1/Day2/) - [Exercise 1](Week1/Day2/01_excersize.md) | [Exercise 2](Week1/Day2/02_excersize.md)
-  - [Day 3](Week1/Day3/) - [Exercise 1](Week1/Day3/01_excersize.md)
-  - [Day 4](Week1/Day4/) - [Exercise 1](Week1/Day4/01_excersize.md) | [Exercise 2](Week1/Day4/02_excersize.md)
-  - [Day 5](Week1/Day5/) - [Exercise 1](Week1/Day5/01_excersize.md) | [Exercise 2](Week1/Day5/02_excersize.md)
+  - [Day 2](Week1/Day2/) - [Exercise 1](Week1/Day2/01_excersize.md) | [Exercise 2](Week1/Day2/02_excersize.md) | [Exercise 3](Week1/Day2/03_excersize.md)
+  - [Day 3](Week1/Day3/) - [Exercise 1](Week1/Day3/01_excersize.md) | [Exercise 2](Week1/Day3/02_excersize.md) | [Exercise 3](Week1/Day3/03_excersize.md) | [Exercise 4](Week1/Day3/04_excersize.md)
+  - [Day 4](Week1/Day4/) - [Exercise 1](Week1/Day4/01_excersize.md) | [Exercise 2](Week1/Day4/02_excersize.md) | [Exercise 3](Week1/Day4/03_excersize.md) | [Exercise 4](Week1/Day4/04_excersize.md)
+  - [Day 5](Week1/Day5/) - [Exercise 1](Week1/Day5/01_excersize.md) | [Exercise 2](Week1/Day5/02_excersize.md) | [Exercise 3](Week1/Day5/03_excersize.md)
 - [📚 Draft Materials](drafts/) - Source files and course notes
 
 ---
@@ -147,14 +147,12 @@ Each week contains daily exercises designed for:
 
 ### Course Materials
 
-- **Slides:** Located in [drafts/](drafts/) folder
-  - `Understanding Technology 1.pptx` - Week 1, Days 1-3
-  - `Understanding Technology 2.pptx` - Week 1, Days 4-5
-  - `SAP Tech Consultant Coursera 1-3.pptx` - Weeks 2-6
+- **Slides:** Source files available in drafts folder (not in repository)
+  - Understanding Technology 1.pptx - Week 1, Days 1-3
+  - Understanding Technology 2.pptx - Week 1, Days 4-5
+  - SAP Tech Consultant Coursera 1-3.pptx - Weeks 2-6
 
-- **Course Notes:** Located in [drafts/](drafts/) folder
-  - [coursera notes 1.docx.md](drafts/coursera%20notes%201.docx.md)
-  - [coursera notes 2.docx.md](drafts/coursera%20notes%202.docx.md)
+- **Course Notes:** Source files available in drafts folder (not in repository)
 
 ### Exercise Files
 

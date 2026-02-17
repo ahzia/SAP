@@ -104,37 +104,7 @@ Welcome back! Now let's see how **AI works with other technologies** and how **S
 
 ---
 
-## 🎯 Activity 5: AI Tech - Advanced Concepts (Simple Explanation)
-
-### Understanding AI Technology
-
-**1. Deep Learning:**
-- **Simple explanation:** A subset of ML using neural networks with many layers
-- **What it means:** AI that learns in layers, like the human brain
-- **Example:** 
-  > ___________________________________________
-
-**2. Neural Networks:**
-- **Simple explanation:** Computing systems inspired by the human brain's neural networks
-- **What it means:** AI that works like the human brain
-- **Example:** 
-  > ___________________________________________
-
-**3. Reinforcement Learning:**
-- **Simple explanation:** ML technique where agents learn by interacting with their environment
-- **What it means:** AI learns by trying things and getting feedback
-- **Example:** 
-  > ___________________________________________
-
-**4. Generative Adversarial Networks (GANs):**
-- **Simple explanation:** AI models used to generate new data samples
-- **What it means:** AI that can create new things (like images, text)
-- **Example:** 
-  > ___________________________________________
-
----
-
-## 🎮 Activity 6: AI Integration Benefits
+## 🎮 Activity 5: AI Integration Benefits
 
 ### Why Combine AI with Other Technologies?
 
@@ -159,7 +129,7 @@ Welcome back! Now let's see how **AI works with other technologies** and how **S
 
 ---
 
-## 🌟 Activity 7: Real-World SAP AI Example
+## 🌟 Activity 6: Real-World SAP AI Example
 
 ### Design Your Own Scenario
 
