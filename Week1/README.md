@@ -80,6 +80,10 @@ This week covers **Understanding Technology** with a focus on:
 - Robotic Process Automation (RPA)
 - Digital Innovation and Business Transformation
 - Business Processes & Enterprise Systems (Afternoon Session 2)
+- RPA in Practice (Afternoon Session 3)
+- Operating Systems & Platforms Basics (Afternoon Session 4)
+- SAP Automated Processes - Deep Dive (Afternoon Session 5)
+- Information Security Basics (Afternoon Session 6)
 
 **Exercises:**
 - [📄 01_excersize.md - AI History & Advanced Concepts](Day4/01_excersize.md)
@@ -87,6 +91,10 @@ This week covers **Understanding Technology** with a focus on:
 - [📄 03_excersize.md - Video Learning: Robotic Process Automation (RPA)](Day4/03_excersize.md)
 - [📄 04_afternoon_session.md - Afternoon Session: SAP AI & Digital Innovation](Day4/04_afternoon_session.md)
 - [📄 05_afternoon_session_business_processes.md - Afternoon Session 2: Business Processes & Enterprise Systems](Day4/05_afternoon_session_business_processes.md)
+- [📄 06_afternoon_session_rpa_applications.md - Afternoon Session 3: RPA in Practice](Day4/06_afternoon_session_rpa_applications.md)
+- [📄 07_afternoon_session_operating_systems.md - Afternoon Session 4: Operating Systems & Platforms Basics](Day4/07_afternoon_session_operating_systems.md)
+- [📄 08_afternoon_session_sap_automated_processes.md - Afternoon Session 5: SAP Automated Processes - Deep Dive](Day4/08_afternoon_session_sap_automated_processes.md)
+- [📄 09_afternoon_session_security_basics.md - Afternoon Session 6: Information Security Basics](Day4/09_afternoon_session_security_basics.md)
 
 ---
 
@@ -105,12 +113,20 @@ This week covers **Understanding Technology** with a focus on:
 - SAP Integration with External Systems
 - Week 1 Conclusions and Recap
 - Digital Transformation & Business Requirements (Afternoon Session 2)
+- Automation Design & Best Practices (Afternoon Session 3)
+- Applications & APIs - Integration Basics (Afternoon Session 4)
+- Week 1 Integration & Week 2 Preparation (Afternoon Session 5)
+- Customer Experience Design Basics (Afternoon Session 6)
 
 **Exercises:**
 - [📄 01_excersize.md - Robotics & Automation](Day5/01_excersize.md)
 - [📄 02_excersize.md - SAP Automation & Week 1 Wrap-Up](Day5/02_excersize.md)
 - [📄 03_afternoon_session.md - Afternoon Session: SAP Automation in Practice](Day5/03_afternoon_session.md)
 - [📄 04_afternoon_session_digital_transformation.md - Afternoon Session 2: Digital Transformation & Business Requirements](Day5/04_afternoon_session_digital_transformation.md)
+- [📄 05_afternoon_session_automation_design.md - Afternoon Session 3: Automation Design & Best Practices](Day5/05_afternoon_session_automation_design.md)
+- [📄 06_afternoon_session_applications_apis.md - Afternoon Session 4: Applications & APIs - Integration Basics](Day5/06_afternoon_session_applications_apis.md)
+- [📄 07_afternoon_session_week1_integration.md - Afternoon Session 5: Week 1 Integration & Week 2 Preparation](Day5/07_afternoon_session_week1_integration.md)
+- [📄 08_afternoon_session_customer_experience.md - Afternoon Session 6: Customer Experience Design Basics](Day5/08_afternoon_session_customer_experience.md)
 
 ---
 
